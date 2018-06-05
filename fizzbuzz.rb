@@ -1,5 +1,5 @@
 
-def FB
+
   if num % 3 == 0 
     puts "Fizz"
     
@@ -7,4 +7,3 @@ def FB
     puts "Buzz"
 
   else puts "FizzBuzz"
-end
