@@ -1,6 +1,5 @@
 
-
-
+def FB
   if num % 3 == 0 
     puts "Fizz"
     
@@ -8,3 +7,4 @@
     puts "Buzz"
 
   else puts "FizzBuzz"
+end
