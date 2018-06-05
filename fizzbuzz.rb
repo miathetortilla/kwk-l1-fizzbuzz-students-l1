@@ -1,6 +1,5 @@
 
-
-
+def fizzbuzzz
   if num % 3 == 0 
     puts "Fizz"
     
