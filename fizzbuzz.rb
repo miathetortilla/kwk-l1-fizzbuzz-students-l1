@@ -7,7 +7,12 @@ say_hello()
 
 
 def fizz 
-  if 
+  if num/3 
+    puts "Fizz"
+  end
+  
+  fizz
+  
     
     
     if 
